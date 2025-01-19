@@ -1,5 +1,5 @@
 # GAN
-<h1> Build a GAN to Generate Faces Using CelebA Dataset </h1>
+<h1> Build a GAN to Generate Faces </h1>
 
 
 ### Environment setup:
