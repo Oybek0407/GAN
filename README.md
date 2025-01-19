@@ -1,4 +1,4 @@
-# GAN
+# GANs
 <h1> Build a GAN to Generate Faces </h1>
 
 
